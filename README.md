@@ -6,6 +6,8 @@
 
 ### 目标 ：
 
+基于 Linux namespace 机制实现以下功能
+
 * 实现 文件系统隔离
 
   见`/example`
